@@ -1,0 +1,26 @@
+<launch>
+    <node name='publisher_node' pkg='ros_thesis_exp' type='talker' args='' output='screen'/>
+    <node name='subscriber_node' pkg='ros_thesis_exp' type='listener' args='' output='screen'/>
+    <node name='publisher_node1' pkg='ros_thesis_exp' type='talker' args='1' output='screen'/>
+    <node name='subscriber_node1' pkg='ros_thesis_exp' type='listener' args='1' output='screen'/>
+    <node name='publisher_node2' pkg='ros_thesis_exp' type='talker' args='2' output='screen'/>
+    <node name='subscriber_node2' pkg='ros_thesis_exp' type='listener' args='2' output='screen'/>
+    <node name='publisher_node3' pkg='ros_thesis_exp' type='talker' args='3' output='screen'/>
+    <node name='subscriber_node3' pkg='ros_thesis_exp' type='listener' args='3' output='screen'/>
+    <node name='publisher_node4' pkg='ros_thesis_exp' type='talker' args='4' output='screen'/>
+    <node name='subscriber_node4' pkg='ros_thesis_exp' type='listener' args='4' output='screen'/>
+    <node name='publisher_node5' pkg='ros_thesis_exp' type='talker' args='5' output='screen'/>
+    <node name='subscriber_node5' pkg='ros_thesis_exp' type='listener' args='5' output='screen'/>
+    <node name='publisher_node6' pkg='ros_thesis_exp' type='talker' args='6' output='screen'/>
+    <node name='subscriber_node6' pkg='ros_thesis_exp' type='listener' args='6' output='screen'/>
+    <node name='publisher_node7' pkg='ros_thesis_exp' type='talker' args='7' output='screen'/>
+    <node name='subscriber_node7' pkg='ros_thesis_exp' type='listener' args='7' output='screen'/>
+    <node name='publisher_node8' pkg='ros_thesis_exp' type='talker' args='8' output='screen'/>
+    <node name='subscriber_node8' pkg='ros_thesis_exp' type='listener' args='8' output='screen'/>
+    <node name='publisher_node9' pkg='ros_thesis_exp' type='talker' args='9' output='screen'/>
+    <node name='subscriber_node9' pkg='ros_thesis_exp' type='listener' args='9' output='screen'/>
+    <node name='publisher_node10' pkg='ros_thesis_exp' type='talker' args='10' output='screen'/>
+    <node name='subscriber_node10' pkg='ros_thesis_exp' type='listener' args='10' output='screen'/>
+    <node name='publisher_node11' pkg='ros_thesis_exp' type='talker' args='11' output='screen'/>
+    <node name='subscriber_node11' pkg='ros_thesis_exp' type='listener' args='11' output='screen'/>
+</launch>
